@@ -1,0 +1,2 @@
+# xiter
+ dynamic iterable lib
